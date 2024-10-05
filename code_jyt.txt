@@ -1,3 +1,5 @@
-system.out.println("회원가입정보");
+system.out.println("회원가입정보")
 
 황병진 입니다
+
+야이야야야야야야야야야야야야야
