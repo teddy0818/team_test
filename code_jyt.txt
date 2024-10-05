@@ -1,1 +1,1 @@
-code test 44
+system.out.println("회원가입정보");
